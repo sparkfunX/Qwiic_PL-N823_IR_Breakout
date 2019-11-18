@@ -1,4 +1,4 @@
-SparkFun PL-N823 IR Breakout
+SparkFun Qwiic PL-N823 IR Breakout
 ===================================
 
 [![SparkFun Qwiic IR Breakout](https://cdn.sparkfun.com/assets/parts/1/4/4/2/8/15804-Qwiic_IR_Breakout-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/4/4/2/8/15804-Qwiic_IR_Breakout-01.jpg)
@@ -9,7 +9,7 @@ PL-N823-01 Lensless IR Sensor breakout with signal amplifier and I2C ADC
 
 This board allows for digital sensor reading of IR signals from external sources. One such application can be the detection of heat given off by the human body. Operating voltage is 5V for the board as a whole, and while under 1mm thick materials detection can be as far away as 10cm to 20cm.
 
-Repository contents
+Repository Contents
 -------------------
 
 * **/Documents** - Contains datasheets
