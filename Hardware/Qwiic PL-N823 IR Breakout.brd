@@ -3351,6 +3351,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="U$10" library="SparkX" package="SPARKX-SMALL" value="" x="21.59" y="7.62" smashed="yes"/>
 <element name="U3" library="PL-N823-01" package="PL-N823-01" value="PL-N823-01" x="12.7" y="12.7" smashed="yes">
 <attribute name="NAME" x="11.9225" y="15.3825" size="1.016" layer="48"/>
+<attribute name="PROD_ID" value="IC-14725" x="12.7" y="12.7" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="9.7" y="12.4625" size="0.8128" layer="27"/>
 </element>
 <element name="H1" library="SparkFun-Hardware" package="STAND-OFF-TIGHT" value="STAND-OFFTIGHT" x="2.54" y="2.54" smashed="yes">

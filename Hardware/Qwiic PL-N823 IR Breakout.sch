@@ -2805,7 +2805,9 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <part name="R7" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="JP1" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" value="JUMPER-SMT_3_2-NC_TRACE_SILK"/>
 <part name="JP2" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" value="JUMPER-SMT_2_NC_TRACE_SILK"/>
-<part name="U3" library="PL-N823-01" deviceset="PL-N823-01" device=""/>
+<part name="U3" library="PL-N823-01" deviceset="PL-N823-01" device="">
+<attribute name="PROD_ID" value="IC-14725"/>
+</part>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="H1" library="SparkFun-Hardware" deviceset="STAND-OFF" device="TIGHT"/>
 <part name="H2" library="SparkFun-Hardware" deviceset="STAND-OFF" device="TIGHT"/>
@@ -2931,6 +2933,7 @@ interference with IR sensor.</text>
 <instance part="U3" gate="G$1" x="38.1" y="160.02" smashed="yes">
 <attribute name="NAME" x="30.48" y="165.1" size="1.778" layer="95"/>
 <attribute name="VALUE" x="30.48" y="152.4" size="1.778" layer="95"/>
+<attribute name="PROD_ID" x="38.1" y="160.02" size="1.27" layer="96" display="off"/>
 </instance>
 <instance part="GND7" gate="1" x="55.88" y="142.24" smashed="yes">
 <attribute name="VALUE" x="53.34" y="139.7" size="1.778" layer="96"/>
